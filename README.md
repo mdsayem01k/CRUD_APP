@@ -14,12 +14,12 @@ CRUD_APP <br>
 └── .env<br>
 
 <h2>Description</h2>
-<b>init.py:</b>Initializes the app as a Python package.<br>
-main.py: Entry point of the FastAPI application where routes are defined.<br>
-database.py: Manages database connections and sessions.<br>
-models.py: Defines database models using SQLAlchemy.<br>
-schemas.py: Defines Pydantic models (schemas) for request and response validation.<br>
-crud.py: Contains CRUD (Create, Read, Update, Delete) operations logic.<br>
-requirements.txt: Lists Python dependencies required for the project.<br>
-<br>
-.env: Configuration file containing environment variables, such as database connection strings.<br>
+<b>init.py:</b> Initializes the app as a Python package.<br>
+<b>main.py:</b> Entry point of the FastAPI application where routes are defined.<br>
+<b>database.py:</b> Manages database connections and sessions.<br>
+<b>models.py:</b> Defines database models using SQLAlchemy.<br>
+<b>schemas.py:</b> Defines Pydantic models (schemas) for request and response validation.<br>
+<b>crud.py:</b> Contains CRUD (Create, Read, Update, Delete) operations logic.<br>
+<b>requirements.txt:</b> Lists Python dependencies required for the project.<br>
+<b><br>
+<b>.env:</b> Configuration file containing environment variables, such as database connection strings.<br>
