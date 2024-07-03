@@ -49,6 +49,7 @@ CRUD_APP <br>
 
 <h2>Description</h2>
 - **app/**: Contains the main application code.
+
   - **__init__.py**: Initializes the app as a Python package.
   - **main.py**: Entry point of the FastAPI application where routes are defined.
   - **database.py**: Manages database connections and sessions.
