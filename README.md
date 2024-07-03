@@ -14,7 +14,7 @@ CRUD_APP <br>
 └── .env<br>
 
 <h2>Description</h2>
-init.py: Initializes the app as a Python package.<br>
+<h5>init.py:  </h5>Initializes the app as a Python package.<br>
 main.py: Entry point of the FastAPI application where routes are defined.<br>
 database.py: Manages database connections and sessions.<br>
 models.py: Defines database models using SQLAlchemy.<br>
