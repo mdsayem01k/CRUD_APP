@@ -1,0 +1,24 @@
+.env
+alembic.ini
+venv/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore IDE directories
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
