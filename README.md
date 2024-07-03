@@ -2,6 +2,7 @@ This project demonstrates a CRUD (Create, Read, Update, Delete) application usin
 
 <h3>File Structure</h3>
 fastapi_crud/
+fastapi_crud/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
