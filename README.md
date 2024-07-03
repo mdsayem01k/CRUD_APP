@@ -1,4 +1,38 @@
-This project demonstrates a CRUD (Create, Read, Update, Delete) application using FastAPI 
+# FastAPI CRUD Project
+
+This project implements a CRUD (Create, Read, Update, Delete) application using FastAPI.
+
+## API Documentation
+
+### Retrieve all users
+
+- **URL**: `/users/`
+- **Method**: `GET`
+- **Description**: Retrieves a list of all users.
+
+### Create a new user
+
+- **URL**: `/users/`
+- **Method**: `POST`
+- **Description**: Creates a new user.
+
+### Retrieve a specific user
+
+- **URL**: `/users/{user_id}`
+- **Method**: `GET`
+- **Description**: Retrieves details of a specific user identified by `user_id`.
+
+### Update a user
+
+- **URL**: `/users/{user_id}`
+- **Method**: `PUT`
+- **Description**: Updates information of a specific user identified by `user_id`.
+
+### Delete a user
+
+- **URL**: `/users/{user_id}`
+- **Method**: `DELETE`
+- **Description**: Deletes a specific user identified by `user_id`.
 
 <h3>File Structure</h3>
 
@@ -30,8 +64,8 @@ CRUD_APP <br>
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/YOUR-GITHUB-USERNAME/fastapi_crud.git
-    cd fastapi_crud
+    git clone [https://github.com/YOUR-GITHUB-USERNAME/fastapi_crud.git](https://github.com/mdsayem01k/CRUD_APP.git)
+    cd CRUD_APP
     ```
 
 2. Create and activate a virtual environment:
